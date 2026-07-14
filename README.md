@@ -19,5 +19,5 @@ chiara.zagni@unict.it
 ## Citation
 If you find this article useful in your own research please cite:\
 **In Silico Drug Repositioning Identifies SYK Kinase Inhibitors as Potential Neuroprotective Agents for Ataxia–Telangiectasia**\
-Alessia Romano,† Rocco Buccheri,† Chiara Zagni, Antonio Rescifina\
-[doi will be applied here]
+Alessia Romano, Rocco Buccheri, Chiara Zagni, and Antonio Rescifina\
+Chemical Biology & Drug Design 2026, 180, e70354; https://doi.org/10.1111/cbdd.70354
